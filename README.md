@@ -6,14 +6,14 @@ Responsive design (works on mobile, tablet, and desktop)
 Sections for About Me, Projects, Skills, and Contact
 Project cards with links to live demos and GitHub repositories
 Deployed on GitHub Pages
+
 🛠️ Technologies Used
 Frontend: HTML, CSS, JavaScript
 Hosting: GitHub Pages
-📂 Live Demo
-🔗 View my portfolio here
+
 
 📬 Contact
 If you would like to collaborate or have any opportunities, feel free to reach out!
 
 Email: mudaupraises150@gmail.com
-LinkedIn: My LinkedIn
+LinkedIn: https://www.linkedin.com/in/mukona-praises-mudau-369276249/
